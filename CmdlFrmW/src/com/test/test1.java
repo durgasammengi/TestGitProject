@@ -29,7 +29,7 @@ public class test1 extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		System.out.println("test ///////////////////");
+		System.out.println("test //////88888////");
 
 		/*String[] cmd = {"cmd.exe","/c","explorer.exe"};
 		Runtime.getRuntime().exec(cmd); 
